@@ -4,7 +4,7 @@
  * Block Mainland China IP + IP Blacklist Access and Redirection
  * @package RegionalIP
  * @author Eoyz369
- * @version 3.0
+ * @version 1.0
  * @update: 2023.11.17
  * @link https://github.com/Eoyz369/typecho_RegionalIP
  */
